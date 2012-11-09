@@ -1,0 +1,5 @@
+copy-router-config (1.0-1kali1) kali; urgency=low
+
+  * Initial release 
+
+ -- dookie <dookie@kali.org>  Fri, 09 Nov 2012 12:42:23 -0700

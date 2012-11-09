@@ -1,0 +1,16 @@
+Source: copy-router-config
+Section: net
+Priority: extra
+Maintainer: dookie <dookie@kali.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://www.offensive-security.com
+Vcs-Git: ssh://git@git.kali.org/packages/copy-router-config.git
+Vcs-Browser: http://git.kali.org/gitweb/?p=packages/copy-router-config.git;a=summary
+
+Package: copy-router-config
+Architecture: all
+Depends: ${misc:Depends}, perl-cisco-copyconfig
+Description: Copies Cisco configs via SNMP
+ Copies configuration files from Cisco devices
+ running SNMP.
