@@ -1,5 +1,3 @@
 copy-router-config.pl usr/bin/
 merge-router-config.pl usr/bin/
-debian/kali-copy-router-config.desktop usr/share/applications/
-debian/kali-merge-router-config.desktop usr/share/applications/
 
